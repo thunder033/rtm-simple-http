@@ -1,0 +1,23 @@
+{
+  "name": "rtm-simple-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thunder033@github.com/thunder033/rtm-simple-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunder033/rtm-simple-http/issues"
+  },
+  "homepage": "https://github.com/thunder033/rtm-simple-http#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "typescript": "^2.1.5"
+  }
+}
