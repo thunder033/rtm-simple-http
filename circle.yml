@@ -11,3 +11,8 @@ dependencies:
     - npm install
   post:
     - npm run build
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: gentle-brushlands-51719
